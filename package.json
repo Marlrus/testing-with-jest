@@ -4,7 +4,8 @@
   "description": "pruebas unitarias con Jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest -o",
+    "testAll": "jest"
   },
   "author": "mARLRUS",
   "license": "MIT",
